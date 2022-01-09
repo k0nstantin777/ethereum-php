@@ -31,5 +31,11 @@
       ]
     }
   },
+  "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/xiaohuilam/data-types.git"
+       }
+   ],
   "minimum-stability": "dev"
 }
